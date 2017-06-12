@@ -1,0 +1,188 @@
+[
+  {
+    "url": "https://api.github.com/repos/inbasic/bulk-media-downloader/issues/7",
+    "repository_url": "https://api.github.com/repos/inbasic/bulk-media-downloader",
+    "labels_url": "https://api.github.com/repos/inbasic/bulk-media-downloader/issues/7/labels{/name}",
+    "comments_url": "https://api.github.com/repos/inbasic/bulk-media-downloader/issues/7/comments",
+    "events_url": "https://api.github.com/repos/inbasic/bulk-media-downloader/issues/7/events",
+    "html_url": "https://github.com/inbasic/bulk-media-downloader/issues/7",
+    "id": 229459289,
+    "number": 7,
+    "title": "test",
+    "user": {
+      "login": "Gatineaupq",
+      "id": 22403708,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/22403708?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Gatineaupq",
+      "html_url": "https://github.com/Gatineaupq",
+      "followers_url": "https://api.github.com/users/Gatineaupq/followers",
+      "following_url": "https://api.github.com/users/Gatineaupq/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Gatineaupq/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Gatineaupq/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Gatineaupq/subscriptions",
+      "organizations_url": "https://api.github.com/users/Gatineaupq/orgs",
+      "repos_url": "https://api.github.com/users/Gatineaupq/repos",
+      "events_url": "https://api.github.com/users/Gatineaupq/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Gatineaupq/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2017-05-17T19:16:00Z",
+    "updated_at": "2017-05-17T19:16:00Z",
+    "closed_at": null,
+    "body": ""
+  },
+  {
+    "url": "https://api.github.com/repos/inbasic/bulk-media-downloader/issues/5",
+    "repository_url": "https://api.github.com/repos/inbasic/bulk-media-downloader",
+    "labels_url": "https://api.github.com/repos/inbasic/bulk-media-downloader/issues/5/labels{/name}",
+    "comments_url": "https://api.github.com/repos/inbasic/bulk-media-downloader/issues/5/comments",
+    "events_url": "https://api.github.com/repos/inbasic/bulk-media-downloader/issues/5/events",
+    "html_url": "https://github.com/inbasic/bulk-media-downloader/pull/5",
+    "id": 226432745,
+    "number": 5,
+    "title": "Create readme-edits",
+    "user": {
+      "login": "slavka123",
+      "id": 28413411,
+      "avatar_url": "https://avatars1.githubusercontent.com/u/28413411?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/slavka123",
+      "html_url": "https://github.com/slavka123",
+      "followers_url": "https://api.github.com/users/slavka123/followers",
+      "following_url": "https://api.github.com/users/slavka123/following{/other_user}",
+      "gists_url": "https://api.github.com/users/slavka123/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/slavka123/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/slavka123/subscriptions",
+      "organizations_url": "https://api.github.com/users/slavka123/orgs",
+      "repos_url": "https://api.github.com/users/slavka123/repos",
+      "events_url": "https://api.github.com/users/slavka123/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/slavka123/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2017-05-04T23:05:54Z",
+    "updated_at": "2017-05-17T08:39:14Z",
+    "closed_at": null,
+    "pull_request": {
+      "url": "https://api.github.com/repos/inbasic/bulk-media-downloader/pulls/5",
+      "html_url": "https://github.com/inbasic/bulk-media-downloader/pull/5",
+      "diff_url": "https://github.com/inbasic/bulk-media-downloader/pull/5.diff",
+      "patch_url": "https://github.com/inbasic/bulk-media-downloader/pull/5.patch"
+    },
+    "body": ""
+  },
+  {
+    "url": "https://api.github.com/repos/inbasic/bulk-media-downloader/issues/4",
+    "repository_url": "https://api.github.com/repos/inbasic/bulk-media-downloader",
+    "labels_url": "https://api.github.com/repos/inbasic/bulk-media-downloader/issues/4/labels{/name}",
+    "comments_url": "https://api.github.com/repos/inbasic/bulk-media-downloader/issues/4/comments",
+    "events_url": "https://api.github.com/repos/inbasic/bulk-media-downloader/issues/4/events",
+    "html_url": "https://github.com/inbasic/bulk-media-downloader/issues/4",
+    "id": 221559927,
+    "number": 4,
+    "title": "Not working on Firefox 52.0.2 (64 bit)",
+    "user": {
+      "login": "Nefostatros",
+      "id": 19929856,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19929856?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Nefostatros",
+      "html_url": "https://github.com/Nefostatros",
+      "followers_url": "https://api.github.com/users/Nefostatros/followers",
+      "following_url": "https://api.github.com/users/Nefostatros/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Nefostatros/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Nefostatros/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Nefostatros/subscriptions",
+      "organizations_url": "https://api.github.com/users/Nefostatros/orgs",
+      "repos_url": "https://api.github.com/users/Nefostatros/repos",
+      "events_url": "https://api.github.com/users/Nefostatros/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Nefostatros/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2017-04-13T13:15:31Z",
+    "updated_at": "2017-04-13T13:15:31Z",
+    "closed_at": null,
+    "body": "It keeps spinning and spinning even if I refresh the page.\r\nWindows 10 64 bit\r\nFirefox 52.0.2 (64 bit)"
+  },
+  {
+    "url": "https://api.github.com/repos/inbasic/bulk-media-downloader/issues/2",
+    "repository_url": "https://api.github.com/repos/inbasic/bulk-media-downloader",
+    "labels_url": "https://api.github.com/repos/inbasic/bulk-media-downloader/issues/2/labels{/name}",
+    "comments_url": "https://api.github.com/repos/inbasic/bulk-media-downloader/issues/2/comments",
+    "events_url": "https://api.github.com/repos/inbasic/bulk-media-downloader/issues/2/events",
+    "html_url": "https://github.com/inbasic/bulk-media-downloader/issues/2",
+    "id": 208933814,
+    "number": 2,
+    "title": "Sending download request to TDM on Firefox",
+    "user": {
+      "login": "hawkeye116477",
+      "id": 19818572,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19818572?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hawkeye116477",
+      "html_url": "https://github.com/hawkeye116477",
+      "followers_url": "https://api.github.com/users/hawkeye116477/followers",
+      "following_url": "https://api.github.com/users/hawkeye116477/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hawkeye116477/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hawkeye116477/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hawkeye116477/subscriptions",
+      "organizations_url": "https://api.github.com/users/hawkeye116477/orgs",
+      "repos_url": "https://api.github.com/users/hawkeye116477/repos",
+      "events_url": "https://api.github.com/users/hawkeye116477/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hawkeye116477/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2017-02-20T16:51:10Z",
+    "updated_at": "2017-02-20T16:51:10Z",
+    "closed_at": null,
+    "body": "On AMO is written:\"Bulk Media Downloader supports Turbo Download Manager extension (From Firefox 50.0)\", but I have Cyberfox/Firefox 51 and I didn't have button to send downloads to TDM. "
+  }
+]

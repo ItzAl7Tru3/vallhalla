@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!DOCTYPE html [
+  <!ENTITY % htmlDTD PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd">
+  %htmlDTD;
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+  <!ENTITY % globalDTD SYSTEM "chrome://global/locale/global.dtd">
+  %globalDTD;
+  <!ENTITY % aboutAccountsDTD SYSTEM "chrome://browser/locale/aboutAccounts.dtd">
+  %aboutAccountsDTD;
+  <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+  %syncBrandDTD;
+]>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" hasBrowserHandlers="true">
+  <head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+   <title>Firefox Sync</title>
+   <meta name="viewport" content="width=device-width" />
+
+
+   <link rel="icon" type="image/png" id="favicon" href="chrome://branding/content/icon32.png" />
+   <link rel="stylesheet" href="Firefox%20Sync_files/normalize.css" type="text/css" />
+   <link rel="stylesheet" href="Firefox%20Sync_files/main.css" type="text/css" />
+   <link rel="stylesheet" href="Firefox%20Sync_files/aboutaccounts.css" type="text/css" />
+  </head>
+  <body>
+    <div id="stage" style="display: none;">
+
+      <div id="manage">
+        <header>
+          <div id="email"></div>
+        </header>
+
+        <section>
+            <div class="graphic graphic-sync-intro"> </div>
+
+            <div class="button-row">
+              <button id="buttonOpenPrefs" class="button" href="#" tabindex="0">Sync preferences</button>
+            </div>
+        </section>
+      </div>
+
+      <div id="intro">
+        <header>
+          <h1>Welcome to Sync</h1>
+        </header>
+
+        <section>
+            <div class="graphic graphic-sync-intro"> </div>
+
+            <div class="description">Sign in to sync your tabs, bookmarks, passwords &amp; more.</div>
+
+            <div class="button-row">
+              <button id="buttonGetStarted" class="button" tabindex="1">Get started</button>
+            </div>
+
+            <div class="links">
+              <button id="oldsync" tabindex="2">Using an older version of Sync?</button>
+            </div>
+        </section>
+      </div>
+
+      <div id="networkError">
+        <header>
+          <h1>No connection</h1>
+        </header>
+
+        <section>
+            <div class="graphic graphic-sync-intro"> </div>
+
+            <div class="description">You must be connected to the Internet to sign in.</div>
+
+            <div class="button-row">
+              <button id="buttonRetry" class="button" tabindex="3">Try again</button>
+            </div>
+        </section>
+      </div>
+
+      <div id="configError">
+        <header>
+          <h1>Bad configuration</h1>
+        </header>
+
+        <section>
+            <div class="graphic graphic-sync-intro"> </div>
+
+            <div class="description">Unable to determine your Firefox Account server configuration. Please try again later.</div>
+
+        </section>
+      </div>
+
+    </div>
+
+    <iframe mozframetype="content" id="remote" style="display: block;"></iframe>
+
+    <script type="application/javascript;version=1.8" src="Firefox%20Sync_files/utilityOverlay.js"></script>
+    <script type="text/javascript;version=1.8" src="Firefox%20Sync_files/aboutaccounts.js"></script>
+  </body>
+</html>
